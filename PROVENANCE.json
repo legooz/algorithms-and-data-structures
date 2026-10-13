@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-12",
+  "author": "Lars Goozen",
+  "institution": "University of Alaska Anchorage",
+  "attribution": "Student coursework incorporating course scaffolding; see NOTICE.md.",
+  "files": [
+    {
+      "source_file": "comparison-sorting.ipynb",
+      "course": "CSCE A311, Spring 2024",
+      "source_sha256": "acc03c2b46f119621eca108aca1f231d706059d00725f058cc21feed245ec325",
+      "destination": "sorting/comparison-sorting.ipynb",
+      "published_sha256": "9c2e618480f495637feb584781712ee6656fda56147169ca193063cca5e028be",
+      "selected_original_cell_indexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "transformations": [
+        "Selected listed original code cells; preserved their source text.",
+        "Removed outputs, execution metadata, original handout prose and unselected cells.",
+        "Added public attribution and navigation note."
+      ],
+      "notes": "Includes original classroom examples, completed early-exit variants and comparison-count experiments. Plots use matplotlib."
+    },
+    {
+      "source_file": "hash-tables.ipynb",
+      "course": "CSCE A311, Spring 2024",
+      "source_sha256": "191f15734732331ea13b9b6239910e8103f98ec0590375b405459aa888a4ddb5",
+      "destination": "data-structures/hash-tables.ipynb",
+      "published_sha256": "b0aa59a48ce2ad021e0f00976b293938b23b3c02d9eaf29b80d266cf3e36e317",
+      "selected_original_cell_indexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "transformations": [
+        "Selected listed original code cells; preserved their source text.",
+        "Removed outputs, execution metadata, original handout prose and unselected cells.",
+        "Added public attribution and navigation note."
+      ],
+      "notes": "Hashing, collisions and key updates in a completed classroom notebook."
+    },
+    {
+      "source_file": "heaps.ipynb",
+      "course": "CSCE A311, Spring 2024",
+      "source_sha256": "58de79a0218d7b1fd83b68792e3c492bfd34036371b64c169e210d6185ddd230",
+      "destination": "data-structures/heaps.ipynb",
+      "published_sha256": "9356aa9bffdae80cb27a0ebb0d5ff533b9b13f326812354cc3bb65b52e0e33c3",
+      "selected_original_cell_indexes": [
+        0,
+        1
+      ],
+      "transformations": [
+        "Selected listed original code cells; preserved their source text.",
+        "Removed outputs, execution metadata, original handout prose and unselected cells.",
+        "Added public attribution and navigation note."
+      ],
+      "notes": "Run both cells in order: the demonstration imports copy before buildHeap is called."
+    },
+    {
+      "source_file": "homework3.ipynb",
+      "course": "CSCE A311, Spring 2024",
+      "source_sha256": "9deb829ee13d08bfbcfba807ea2e50e0faa31008d7dbdc57e23f21b34417009f",
+      "destination": "data-structures/movie-bst.ipynb",
+      "published_sha256": "e128c34047a8c7222618da8544feb735405c7913e76eb9ffb7a53f18e778cc34",
+      "selected_original_cell_indexes": [
+        1,
+        2,
+        4
+      ],
+      "transformations": [
+        "Selected listed original code cells; preserved their source text.",
+        "Removed outputs, execution metadata, original handout prose and unselected cells.",
+        "Added public attribution and navigation note."
+      ],
+      "notes": "The original demo renders a Graphviz file and requests a viewer. Tests exercise the class without running that display cell. The delete method is the completed assignment extension to the provided tree scaffold."
+    },
+    {
+      "source_file": "insertion-sort.ipynb",
+      "course": "CSCE A311, Spring 2024",
+      "source_sha256": "7b8e639456bd3fcacb80a5fb90f30ed73c0d96a33ecb85cd94ffc08ff86bc040",
+      "destination": "sorting/insertion-sort.ipynb",
+      "published_sha256": "cf506367f91651ed674eda7c4aec269572b8cf38d1f67126c79185bba3821542",
+      "selected_original_cell_indexes": [
+        4
+      ],
+      "transformations": [
+        "Selected listed original code cells; preserved their source text.",
+        "Removed outputs, execution metadata, original handout prose and unselected cells.",
+        "Added public attribution and navigation note."
+      ],
+      "notes": "Python version from the classroom notebook. The C++ version is already represented in c-cpp-portfolio."
+    },
+    {
+      "source_file": "linked-list-operations.ipynb",
+      "course": "CSCE A311, Spring 2024",
+      "source_sha256": "7ee4e383e52471f8cdb50f651b43f5dbe3565fb827be628bcd6944dae6d9338f",
+      "destination": "data-structures/linked-list-operations.ipynb",
+      "published_sha256": "9267f052daeaffcd33da159f0d02129154581c0f0a15110e900b49b3db2ee760",
+      "selected_original_cell_indexes": [
+        4
+      ],
+      "transformations": [
+        "Selected listed original code cells; preserved their source text.",
+        "Removed outputs, execution metadata, original handout prose and unselected cells.",
+        "Added public attribution and navigation note."
+      ],
+      "notes": "The Python cell is preserved here. The notebook\u2019s C++ implementation is already represented in c-cpp-portfolio."
+    },
+    {
+      "source_file": "dfa_exercises.ipynb",
+      "course": "CSCE A351, Fall 2025",
+      "source_sha256": "ad8a097835c603fb49bc4b2bfae38d59a73aba7b5ac1fa8415d26b5706cd6f81",
+      "destination": "automata/dfa_exercises.ipynb",
+      "published_sha256": "f545c9641f3faa6ec8f7bbed7b1d7df9450a092dc3b40776755ede64c169ce63",
+      "selected_original_cell_indexes": [
+        1
+      ],
+      "transformations": [
+        "Selected listed original code cells; preserved their source text.",
+        "Removed outputs, execution metadata, original handout prose and unselected cells.",
+        "Added public attribution and navigation note."
+      ],
+      "notes": "The sample passage contains demonstrative course contact strings and URLs, not personal contact details. This historical recognizer is a classroom exercise, not a complete URL validator. The unused archive data-directory initialization cell is omitted."
+    },
+    {
+      "source_file": "regular_expressions.ipynb",
+      "course": "CSCE A351, Fall 2025",
+      "source_sha256": "100ad33c4d9bbfc7cfc0408dfc221f230e7cefde344cebe58fbd5cd610342858",
+      "destination": "automata/regular_expressions.ipynb",
+      "published_sha256": "a645d055be3c1ff66ca0f0272c642a9212d884c1960cd846df372a04dfcaecf6",
+      "selected_original_cell_indexes": [
+        1
+      ],
+      "transformations": [
+        "Selected listed original code cells; preserved their source text.",
+        "Removed outputs, execution metadata, original handout prose and unselected cells.",
+        "Added public attribution and navigation note."
+      ],
+      "notes": "The sample passage contains demonstrative course contact strings and URLs, not personal contact details. This historical recognizer is a classroom exercise, not a complete URL validator. The unused archive data-directory initialization cell is omitted."
+    }
+  ]
+}
