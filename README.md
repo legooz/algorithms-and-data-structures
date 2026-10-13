@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-Python coursework by Lars Goozen from the University of Alaska Anchorage: data structures and sorting from CSCE A311 (Spring 2024), and finite-state recognition from CSCE A351 (Fall 2025).
+Python coursework from the University of Alaska Anchorage: data structures and sorting from CSCE A311 (Spring 2024), and finite-state recognition from CSCE A351 (Fall 2025).
 
 These notebooks preserve selected original code cells, including course scaffolding. They show completed classroom work and experiments, with historical limitations documented below. Notebook outputs, execution metadata, installation cells and assignment handout prose have been removed. See [attribution](NOTICE.md), [source provenance](PROVENANCE.json) and the [engineering portfolio](https://github.com/legooz/engineering-portfolio).
 
@@ -12,8 +12,8 @@ These notebooks preserve selected original code cells, including course scaffold
 | Linked lists | [List operations](data-structures/linked-list-operations.ipynb) | Insertion, finding and removing nodes |
 | Sorting experiments | [Comparison sorting](sorting/comparison-sorting.ipynb) | Early termination, comparison counts and input size plots |
 | Insertion sort | [Python insertion sort](sorting/insertion-sort.ipynb) | In-place insertion sort |
-| Finite automata | [DFA URL recognizer](automata/dfa_exercises.ipynb) | Explicit character transitions and accepting states |
-| Regular expressions | [Regex URL recognizer](automata/regular_expressions.ipynb) | Comparing a pattern-based recognizer with the DFA approach |
+| Finite automata | [DFA URL recognizer](automata/dfa-url-recognizer.ipynb) | Explicit character transitions and accepting states |
+| Regular expressions | [Regex URL recognizer](automata/regex-url-recognizer.ipynb) | Comparing a pattern-based recognizer with the DFA approach |
 
 The C++ algorithms from the same course already live in [c-cpp-portfolio](https://github.com/legooz/c-cpp-portfolio): playlist reversal and shuffling, queues, priority queues, linked lists, sorting and binary trees. That repository includes their reviewed implementations and CMake checks.
 

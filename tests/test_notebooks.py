@@ -96,13 +96,13 @@ class NotebookChecks(unittest.TestCase):
                 self.assertEqual(data, sorted(values))
 
     def test_dfa_basic_examples(self):
-        ns = load("automata/dfa_exercises.ipynb")
+        ns = load("automata/dfa-url-recognizer.ipynb")
         for token, accepted in [("https://example.org/x", True), ("example.org", True), ("user@example.org", False), ("ordinary", False)]:
             ns["octet"] = ""
             self.assertEqual(ns["run_dfa"](ns["START"], ns["accepts"], " " + token + " "), accepted)
 
     def test_regex_example_excludes_mail_and_invalid_ip(self):
-        ns = load("automata/regular_expressions.ipynb")
+        ns = load("automata/regex-url-recognizer.ipynb")
         self.assertIn("alaska.org/automata", ns["result"])
         self.assertTrue(any(s.startswith("https://") for s in ns["result"]))
         self.assertFalse(any("@" in s or s.startswith("999.") for s in ns["result"]))

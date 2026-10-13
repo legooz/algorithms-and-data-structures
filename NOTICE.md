@@ -9,3 +9,5 @@ The demonstrative addresses, phone number and URLs in the automata sample paragr
 No repository-wide license is supplied because redistribution rights for incorporated course material have not been established. Original source hashes, selected cell indexes and publication transformations are recorded in PROVENANCE.json.
 
 AI assistance was used to organize the recovered material, clear saved notebook outputs and metadata, and write documentation and validation checks in October 2026. Historical implementation logic was preserved.
+
+In October 2026, notebook filenames were made descriptive and repeated author headings were consolidated into this notice. Course labels and source lineage remain; executable notebook code was unchanged.
