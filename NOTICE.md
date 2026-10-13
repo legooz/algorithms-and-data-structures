@@ -6,7 +6,7 @@ The notebooks incorporate classroom scaffolding and examples. Available files do
 
 The demonstrative addresses, phone number and URLs in the automata sample paragraph are course example text. They are not the maintainer's contact information.
 
-No repository-wide license is supplied because redistribution rights for incorporated course material have not been established. Original source hashes, selected cell indexes and publication transformations are recorded in PROVENANCE.json.
+No repository-wide license is supplied because redistribution rights for incorporated course material have not been established. Original source hashes, selected cell indexes and publication transformations are recorded in [PROVENANCE.json](PROVENANCE.json).
 
 AI assistance was used to organize the recovered material, clear saved notebook outputs and metadata, and write documentation and validation checks in October 2026. Historical implementation logic was preserved.
 

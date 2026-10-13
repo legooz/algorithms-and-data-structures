@@ -9,7 +9,7 @@
       "course": "CSCE A311, Spring 2024",
       "source_sha256": "acc03c2b46f119621eca108aca1f231d706059d00725f058cc21feed245ec325",
       "destination": "sorting/comparison-sorting.ipynb",
-      "published_sha256": "b9003b4adb60bba267e11738931e181a66df2aea396174e341f9c0d105ed184a",
+      "published_sha256": "57f6fd636f69572c739d6e3dcb036d598ccc088de9640c939db54f72f406eefb",
       "selected_original_cell_indexes": [
         0,
         1,
@@ -26,7 +26,8 @@
         "Selected listed original code cells; preserved their source text.",
         "Removed outputs, execution metadata, original handout prose and unselected cells.",
         "Added public attribution and navigation note.",
-        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged."
+        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged.",
+        "2026-10-13: project-first introduction with a single attribution/provenance link; original code cells unchanged."
       ],
       "notes": "Includes original classroom examples, completed early-exit variants and comparison-count experiments. Plots use matplotlib."
     },
@@ -35,7 +36,7 @@
       "course": "CSCE A311, Spring 2024",
       "source_sha256": "191f15734732331ea13b9b6239910e8103f98ec0590375b405459aa888a4ddb5",
       "destination": "data-structures/hash-tables.ipynb",
-      "published_sha256": "db460efb21be5be432b3c3a8cacd6107b2afb54b684b07c7ce969bb1c48787ad",
+      "published_sha256": "0a3d77400420813d7f5ac6b9ea1fc17756a4b11b83cbfd2da2b5930db3cbc622",
       "selected_original_cell_indexes": [
         0,
         1,
@@ -46,7 +47,8 @@
         "Selected listed original code cells; preserved their source text.",
         "Removed outputs, execution metadata, original handout prose and unselected cells.",
         "Added public attribution and navigation note.",
-        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged."
+        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged.",
+        "2026-10-13: project-first introduction with a single attribution/provenance link; original code cells unchanged."
       ],
       "notes": "Hashing, collisions and key updates in a completed classroom notebook."
     },
@@ -55,7 +57,7 @@
       "course": "CSCE A311, Spring 2024",
       "source_sha256": "58de79a0218d7b1fd83b68792e3c492bfd34036371b64c169e210d6185ddd230",
       "destination": "data-structures/heaps.ipynb",
-      "published_sha256": "a21ffc9a0f3dae7077138f7fca43a3c23ffb107d8b4cb161099f3edeb97777a7",
+      "published_sha256": "dc890812f728ede9ced9ddcc9c150b3b3f27906eb27968052a396e8962d87309",
       "selected_original_cell_indexes": [
         0,
         1
@@ -64,7 +66,8 @@
         "Selected listed original code cells; preserved their source text.",
         "Removed outputs, execution metadata, original handout prose and unselected cells.",
         "Added public attribution and navigation note.",
-        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged."
+        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged.",
+        "2026-10-13: project-first introduction with a single attribution/provenance link; original code cells unchanged."
       ],
       "notes": "Run both cells in order: the demonstration imports copy before buildHeap is called."
     },
@@ -73,7 +76,7 @@
       "course": "CSCE A311, Spring 2024",
       "source_sha256": "9deb829ee13d08bfbcfba807ea2e50e0faa31008d7dbdc57e23f21b34417009f",
       "destination": "data-structures/movie-bst.ipynb",
-      "published_sha256": "91a1550c6056867ed980e0495b755b1021eb66677ed7e8f43d1cee71db7b16fb",
+      "published_sha256": "9e4843019a1c8f0d03eb3beb3a85fdfc3a86aa7486ae3e7709199c1aeed3640b",
       "selected_original_cell_indexes": [
         1,
         2,
@@ -83,7 +86,8 @@
         "Selected listed original code cells; preserved their source text.",
         "Removed outputs, execution metadata, original handout prose and unselected cells.",
         "Added public attribution and navigation note.",
-        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged."
+        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged.",
+        "2026-10-13: project-first introduction with a single attribution/provenance link; original code cells unchanged."
       ],
       "notes": "The original demo renders a Graphviz file and requests a viewer. Tests exercise the class without running that display cell. The delete method is the completed assignment extension to the provided tree scaffold."
     },
@@ -92,7 +96,7 @@
       "course": "CSCE A311, Spring 2024",
       "source_sha256": "7b8e639456bd3fcacb80a5fb90f30ed73c0d96a33ecb85cd94ffc08ff86bc040",
       "destination": "sorting/insertion-sort.ipynb",
-      "published_sha256": "d527bd63762dc715d49b1144b358e11da06ef229fa6b411edcf9c8a27e82a699",
+      "published_sha256": "773f62b297aa811c5789862a71f3dfda10eb20c179fd7ed70574e68d9a3108b6",
       "selected_original_cell_indexes": [
         4
       ],
@@ -100,7 +104,8 @@
         "Selected listed original code cells; preserved their source text.",
         "Removed outputs, execution metadata, original handout prose and unselected cells.",
         "Added public attribution and navigation note.",
-        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged."
+        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged.",
+        "2026-10-13: project-first introduction with a single attribution/provenance link; original code cells unchanged."
       ],
       "notes": "Python version from the classroom notebook. The C++ version is already represented in c-cpp-portfolio."
     },
@@ -109,7 +114,7 @@
       "course": "CSCE A311, Spring 2024",
       "source_sha256": "7ee4e383e52471f8cdb50f651b43f5dbe3565fb827be628bcd6944dae6d9338f",
       "destination": "data-structures/linked-list-operations.ipynb",
-      "published_sha256": "80b45e8819189b5ea0c7125ce1b749849b0bd3a3d7727b157cdbb91e19d1ad47",
+      "published_sha256": "eac4e7dd57bd3c14595ddf3c92e53bd9dc4fbb70dc6aaa04b4be94415cf18bdf",
       "selected_original_cell_indexes": [
         4
       ],
@@ -117,7 +122,8 @@
         "Selected listed original code cells; preserved their source text.",
         "Removed outputs, execution metadata, original handout prose and unselected cells.",
         "Added public attribution and navigation note.",
-        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged."
+        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged.",
+        "2026-10-13: project-first introduction with a single attribution/provenance link; original code cells unchanged."
       ],
       "notes": "The Python cell is preserved here. The notebook\u2019s C++ implementation is already represented in c-cpp-portfolio."
     },
@@ -126,7 +132,7 @@
       "course": "CSCE A351, Fall 2025",
       "source_sha256": "ad8a097835c603fb49bc4b2bfae38d59a73aba7b5ac1fa8415d26b5706cd6f81",
       "destination": "automata/dfa-url-recognizer.ipynb",
-      "published_sha256": "bbe41b5aabc31026e52f4915202d60b6feec33eb2c5ee54e48cff6665c7b4ec4",
+      "published_sha256": "01335b7ece749a6892c7458f008f828aa00f24b34c046e05da946589dacdd835",
       "selected_original_cell_indexes": [
         1
       ],
@@ -134,7 +140,8 @@
         "Selected listed original code cells; preserved their source text.",
         "Removed outputs, execution metadata, original handout prose and unselected cells.",
         "Added public attribution and navigation note.",
-        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged."
+        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged.",
+        "2026-10-13: project-first introduction with a single attribution/provenance link; original code cells unchanged."
       ],
       "notes": "The sample passage contains demonstrative course contact strings and URLs, not personal contact details. This historical recognizer is a classroom exercise, not a complete URL validator. The unused archive data-directory initialization cell is omitted."
     },
@@ -143,7 +150,7 @@
       "course": "CSCE A351, Fall 2025",
       "source_sha256": "100ad33c4d9bbfc7cfc0408dfc221f230e7cefde344cebe58fbd5cd610342858",
       "destination": "automata/regex-url-recognizer.ipynb",
-      "published_sha256": "78af47b594017a7902355d6b9e9ec32b9d8a6b27baef883aee025b77474d4e1a",
+      "published_sha256": "8c6dec6b98bb480bc6647001e6af6f61e07c5e76faa096e74c708272a50c267d",
       "selected_original_cell_indexes": [
         1
       ],
@@ -151,7 +158,8 @@
         "Selected listed original code cells; preserved their source text.",
         "Removed outputs, execution metadata, original handout prose and unselected cells.",
         "Added public attribution and navigation note.",
-        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged."
+        "October 2026 naming cleanup: descriptive notebook path where applicable; repeated author heading centralized in NOTICE.md. Code unchanged.",
+        "2026-10-13: project-first introduction with a single attribution/provenance link; original code cells unchanged."
       ],
       "notes": "The sample passage contains demonstrative course contact strings and URLs, not personal contact details. This historical recognizer is a classroom exercise, not a complete URL validator. The unused archive data-directory initialization cell is omitted."
     }

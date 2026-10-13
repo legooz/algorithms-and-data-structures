@@ -37,7 +37,7 @@ python -m unittest discover -s tests -v
 
 The tests cover heap ordering, hash collisions and replacement, BST leaf/one-child/two-child deletion, linked-list removal, sorting edge cases, and recognizer examples. All eight notebooks also undergo schema and Python syntax checks. Test results characterize the preserved code; they do not imply exhaustive algorithm verification.
 
-The DFA is a historical classroom recognizer, with permissive URL-prefix and IPv4 handling. The regex also covers only the assignment's simplified URL forms. Neither is suitable as a general URL validator. The comparison notebook intentionally redefines sorting functions as it explores different variants. Original implementations have not been silently repaired during publication.
+The DFA is a historical classroom recognizer, with permissive URL-prefix and IPv4 handling. The regex also covers only the demonstration's simplified URL forms. Neither is suitable as a general URL validator. The comparison notebook intentionally redefines sorting functions as it explores different variants. Original implementations have not been silently repaired during publication.
 
 ## Attribution
 
